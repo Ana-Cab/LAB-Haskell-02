@@ -16,17 +16,12 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
    - No realice cambios directamente sobre el repositorio original.
 
 2. **Estructura de carpetas**  
-   - Dentro de su fork, cree una carpeta llamada **`lab02/`**.  
-   - Cada ejercicio debe resolverse en un archivo **independiente** con el siguiente formato:  
-     ```
-     lab02/ejercicio01.ipynb
-     lab02/ejercicio02.ipynb
-     ...
-     ```  
+   - Crear un PDF con los pantallazos de los ejercicios completos y prueba de su funcionamiento.  
+   - Deben haber DOS PDFS, uno con el avance en clase, y otro con el laboratorio completo.
+   - O una vez finalizados, descargue y suba los archivos `.ipynb` correspondientes en su repositorio.
 
 3. **Resolución de ejercicios**  
    - Desarrolle los programas en el entorno de programacion indicado en clase.  
-   - Una vez finalizados, copie el código a los archivos `.ipynb` correspondientes en su repositorio.  
    - Cada archivo debe contener:
      - La implementación de su solución.  
 
